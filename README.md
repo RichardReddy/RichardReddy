@@ -1,12 +1,18 @@
-### Hi, I'm Richard and I :heart: the Web 👋
+# Hi, I'm Richard and I :heart: .Net and Javascript
 
-I’m currently working with [8 West Consulting](https://www.8west.ie/) on the Denlta Dental Washington project as a Senior Full-Stack Dev. 🔭
+I'm a full stack developer specializing in .Net and Javascript. I'm currently based in Cork, Ireland.
 
-I’m currently learning Selenium UI integration testing 🌱
+I've been a web developer for close to 20 years and with over 200 projects published for well respected clients such as:
 
-Ask me about ...anything! [@RichardReddy](https://twitter.com/RichardReddy) on Twitter. 💬 
+* DeWalt
+* NHS
+* Ryanair
+* Hertz
+* Airlingus
+* Avon
+* Delta Dental Washington
 
-Find me around the web 🌎:
+# You can find me around the web 🌎:
 * My personal .net dev blog: [IrishDotNet.dev](https://irishdotnet.dev) :pencil:
 * Keeping up to date with all things Web over on [Twitter](https://twitter.com/RichardReddy) :bird:
 * Lets connect over on [LinkedIn](https://www.linkedin.com/in/richardreddy/)  💼
