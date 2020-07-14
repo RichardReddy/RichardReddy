@@ -4,13 +4,15 @@ I'm a full stack developer specializing in .Net and Javascript. I'm currently ba
 
 I've been a web developer for close to 20 years and with over 200 projects published for well respected clients such as:
 
-* DeWalt
+* DeWalt Power Tools
 * NHS
 * Ryanair
-* Hertz
-* Airlingus
-* Avon
+* Hertz Car Rental
+* Aer Lingus
+* Avon Cosmetics
+* Solgar Ireland
 * Delta Dental Washington
+* and many more!
 
 # You can find me around the web 🌎:
 * My personal .net dev blog: [IrishDotNet.dev](https://irishdotnet.dev) :pencil:
